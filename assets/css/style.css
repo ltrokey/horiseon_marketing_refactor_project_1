@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* updated code below */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +60,15 @@ p {
     background-position: center;
 }
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Delete moved code to search, online, social selectors under img */
+
+/*
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,12 +78,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+*/
 
 .benefits {
     margin-right: 20px;
@@ -101,6 +106,37 @@ p {
     color: #ffffff;
 }
 
+/* New code - combined specific h2 selectors below - 1st Issue Footer H2 Different, 2nd h2 font smaller???*/
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+
+*/
+
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -124,7 +160,7 @@ h3 {
     max-width: 150px;
 }
 
-/* updated code below */
+/* New code combined search engine code below */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -134,6 +170,8 @@ h3 {
     background-color:#0072bb;
     & img {
         max-height: 200px;
+        float: left;
+        margin-right: 25px;
     }
 }
 
@@ -153,12 +191,7 @@ h3 {
 
 */
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* updated code below - Issue box combined with social media below*/
+/* New Code combined online reputation below */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px; 
@@ -169,9 +202,11 @@ h3 {
     background-color: #0072bb;
     & img {
         max-height: 200px;
+        float: right;
+        margin-left: 25px;
     }
-    
 }
+
 /*
 .online-reputation-management {
     margin-bottom: 20px;
@@ -187,13 +222,23 @@ h3 {
 }
 */
 
-.online-reputation-management h2 {
+/* New Code combined social media marketing code below */
+
+.social-media-marketing {
     margin-bottom: 20px;
-    font-size: 36px;
+    padding: 50px;
+    height: 300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#ffffff;
+    background-color:#0072bb;
+    & img {
+        max-height: 200px;
+        float: left;
+        margin-right: 25px;
+    }
 }
 
-
-
+/*
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -206,11 +251,7 @@ h3 {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+*/
 
 .footer {
     padding: 30px;
@@ -218,7 +259,4 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
-    font-size: 20px;
-}
+ /* Moved h2 foot code up to other h2 selector */
