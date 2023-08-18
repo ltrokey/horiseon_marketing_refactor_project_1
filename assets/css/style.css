@@ -89,6 +89,28 @@ p {
     margin-left: 25px;
 }
 
+/* NEW CODE BENEFITS - COMBINED BELOW */
+
+.benefits {
+    margin-right: 20px;
+    margin-bottom: 32px; 
+    padding: 20px;
+    padding-bottom: 10px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#ffffff;
+    background-color: #2589bd;
+    & img {
+        display: block;
+        margin: 10px auto;
+        max-width: 150px;
+    }
+
+}
+/*
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -114,6 +136,26 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+*/
 
 /* New code - combined specific h2 selectors below - 1st Issue Footer H2 Different, 2nd h2 font smaller???*/
 
@@ -149,24 +191,6 @@ h2 {
 h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /* New code combined search engine code below - SEE MEDIA SELECTOR ABOVE
