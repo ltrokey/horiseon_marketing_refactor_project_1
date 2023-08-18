@@ -1,8 +1,11 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+/*Element Sectors */
 
 body {
     background-color: #d9dcd6;
@@ -13,15 +16,6 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-}
-
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.header h1 .seo {
-    color: #d9dcd6;
 }
 
 .header div {
@@ -65,7 +59,7 @@ p {
     margin-left: 20px;
 }
 
-/* NEW CODE - Combined search engine, online, social*/
+/* NEW CODE - Combined selectors search engine, online, social */
 
 .media {
     margin-bottom: 20px;
@@ -89,7 +83,7 @@ p {
     margin-left: 25px;
 }
 
-/* NEW CODE BENEFITS - COMBINED BELOW */
+/* NEW CODE - Combined benefits, lead, brand, cost, img */
 
 .benefits {
     margin-right: 20px;
@@ -157,9 +151,18 @@ p {
 
 */
 
-/* New code - combined specific h2 selectors below - 1st Issue Footer H2 Different, 2nd h2 font smaller???*/
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
 
-h2 {
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* New code - combined specific h2 selectors below */
+
+.benefits h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -181,7 +184,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+*/
 .footer h2 {
     font-size: 20px;
 }
@@ -292,4 +295,4 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
- /* Moved h2 foot code up to other h2 selector */
+ /* Moved h2 fooert code up to other h2 selector */
