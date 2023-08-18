@@ -124,6 +124,20 @@ h3 {
     max-width: 150px;
 }
 
+/* updated code below */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#ffffff;
+    background-color:#0072bb;
+    & img {
+        max-height: 200px;
+    }
+}
+
+/*
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -133,14 +147,29 @@ h3 {
     color: #ffffff;
 }
 
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+*/
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* updated code below - Issue box combined with social media below*/
 .online-reputation-management {
-    margin: 20px;
-    padding: 50px;
+    margin-bottom: 20px;
+    padding: 50px; 
     height: 300px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    color:#ffffff;
-    background-color:#0072bb;
+    color: #ffffff;
+    background-color: #0072bb;
+    & img {
+        max-height: 200px;
+    }
     
 }
 /*
@@ -156,13 +185,14 @@ h3 {
 .online-reputation-management img {
     max-height: 200px;
 }
+*/
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* 
+
 
 .social-media-marketing {
     margin-bottom: 20px;
@@ -173,21 +203,9 @@ h3 {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-
-
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
