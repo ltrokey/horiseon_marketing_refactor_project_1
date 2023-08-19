@@ -2,7 +2,7 @@
 
 ## Description
 
-As a computer programmer, I refactored multiple areas of code. There were repeating selectors in the CSS file, I combined all related content to simplify and bring transparency to the code base. This measure will also assist with future formatting ticket requests to provide uniformity per section. In case the user would like different formatting in each of the sections, the original CSS code is still available at the end of the CSS file; the code is marked inactive. I also added element structure formatting to the HTML file which will aid in future website upgrades. My biggest challenge was working through the selector elements such as when to combine, what selector affects what and on how large of a scale, and order. I learned to commit my project often especially when it was functioning properly.
+As a computer programmer, I refactored multiple areas of code by adding nested selectors. There were repeating selectors in the CSS file, I combined all related content to simplify and bring transparency to the code base. This measure will also assist with future formatting ticket requests to provide uniformity per section. In case the user would like different formatting in each of the sections, the original CSS code is still available at the end of the CSS file; the code is marked inactive. I also added element structure formatting to the HTML file which will aid in future website upgrades. My biggest challenge was working through the selector elements including when to combine, what selector affects what and on how large of a scale, and order. I learned to commit my project often especially when it was functioning properly.
 
 ## Installation
 
