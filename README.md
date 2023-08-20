@@ -15,9 +15,7 @@ As a computer programmer, I refactored multiple areas of code by adding nested s
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+1. Click links in header to be directed to the corresponding section of the page.
 
 ![Top Section](assets/images/deployed_top_section.png)
 ![Bottom Section](assets/images/deployed_bottom_section.png)
