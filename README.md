@@ -1,20 +1,17 @@
 # module_1_Challenge
 
+[Link to live deployed](https://ltrokey.github.io/module_1_Challenge/)
+
 ## Description
 
-As a computer programmer, I refactored multiple areas of code by adding nested selectors. There were repeating selectors in the CSS file, I combined all related content to simplify and bring transparency to the code base. This measure will also assist with future formatting ticket requests to provide uniformity per section. In case the user would like different formatting in each of the sections, the original CSS code is still available at the end of the CSS file; the code is marked inactive. I also added element structure formatting to the HTML file which will aid in future website upgrades. My biggest challenge was working through the selector elements including when to combine, what selector affects what and on how large of a scale, and order. I learned to commit my project often especially when it was functioning properly.
+As a computer programmer, I refactored multiple areas of code by adding nested selectors and structural elements. There were repeating selectors in the CSS file, I combined all related content to simplify and bring transparency to the code base. This measure will also assist with future formatting ticket requests to provide uniformity per section. In case the user would like different formatting in each of the sections, the original CSS code is still available at the end of the CSS file; the code is marked inactive. I also added element structure formatting to the HTML file which will aid in future website upgrades. My biggest challenge was working through the selector elements including when to combine, what selector affects what and on how large of a scale, and order. I learned to commit my project often especially when it was functioning properly.
 
 ## Installation
 
-1. Create a new repository on your GitHub account and clone it to your computer.
-
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
-
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
-
-4. On the Settings page, select Pages on the left side of the page. On the GitHub Pages screen, choose `main` in the dropdown under Branch. Click the Save button.
-
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
+1. In terminal, CD into project directory.
+2. Git clone this repo.
+3. CD into module_1_challenge.
+4. Open with your text editor, for VS Code, command `code .`
 
 ## Usage
 
