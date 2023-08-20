@@ -4,7 +4,7 @@
 
 ## Description
 
-As a computer programmer, I refactored multiple areas of code by adding nested selectors and structural elements. There were repeating selectors in the CSS file, I combined all related content to simplify and bring transparency to the code base. This measure will also assist with future formatting ticket requests to provide uniformity per section. In case the user would like different formatting in each of the sections, the original CSS code is still available at the end of the CSS file; the code is marked inactive. I also added element structure formatting to the HTML file which will aid in future website upgrades. My biggest challenge was working through the selector elements including when to combine, what selector affects what and on how large of a scale, and order. I learned to commit my project often especially when it was functioning properly.
+As a computer programmer, I refactored multiple areas of code by adding nested selectors and structural elements. There were repeating selectors in the CSS file, I combined all related content to simplify and bring transparency to the code base. This measure will also assist with future formatting ticket requests to provide uniformity per section. I also added element structure formatting to the HTML file which will aid in future website upgrades. My biggest challenge was working through the selector elements including when to combine, what selector affects what and on how large of a scale, and order. I learned to commit my project often especially when it was functioning properly.
 
 ## Installation
 
@@ -15,9 +15,7 @@ As a computer programmer, I refactored multiple areas of code by adding nested s
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+1. Click links in header to be directed to the corresponding section of the page.
 
 ![Top Section](assets/images/deployed_top_section.png)
 ![Bottom Section](assets/images/deployed_bottom_section.png)
