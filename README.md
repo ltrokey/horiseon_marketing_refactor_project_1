@@ -1,6 +1,6 @@
-# module_1_Challenge
+# Horiseon Marketing Refactor Project 1
 
-[Link to live deploy](https://ltrokey.github.io/module_1_Challenge/)
+[Link to live deploy](https://ltrokey.github.io/horiseon_marketing_refactor_project_1/)
 
 ## Description
 
@@ -10,7 +10,7 @@ As a computer programmer, I refactored multiple areas of code by adding nested s
 
 1. In terminal, CD into project directory.
 2. Git clone this repo.
-3. CD into module_1_challenge.
+3. CD into horiseon_marketing_refactor_project_1.
 4. Open with your text editor, for VS Code, command `code .`
 
 ## Usage
@@ -19,8 +19,6 @@ As a computer programmer, I refactored multiple areas of code by adding nested s
 
 ![Top Section](assets/images/deployed_top_section.png)
 ![Bottom Section](assets/images/deployed_bottom_section.png)
-
-## Credits
 
 ## License
 
