@@ -1,6 +1,6 @@
 # module_1_Challenge
 
-[Link to live deployed](https://ltrokey.github.io/module_1_Challenge/)
+[Link to live deploy](https://ltrokey.github.io/module_1_Challenge/)
 
 ## Description
 
